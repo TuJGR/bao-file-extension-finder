@@ -1,0 +1,11 @@
+{
+  "images": [
+    "https://example.com/images/photo1.jpg",
+    "https://example.com/images/photo2.png",
+    "https://example.com/images/photo1.jpg"
+  ],
+  "videos": [
+    "https://example.com/videos/video1.mp4",
+    "https://example.com/videos/video2.mov"
+  ]
+}
